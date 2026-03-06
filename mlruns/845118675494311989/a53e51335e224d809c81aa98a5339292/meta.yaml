@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/sathy/Downloads/invoice-ai-data-platform/mlruns/845118675494311989/a53e51335e224d809c81aa98a5339292/artifacts
+end_time: 1772831252031
+entry_point_name: ''
+experiment_id: '845118675494311989'
+lifecycle_stage: active
+run_id: a53e51335e224d809c81aa98a5339292
+run_name: isolation_forest_run_1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772831246702
+status: 3
+tags: []
+user_id: sathy

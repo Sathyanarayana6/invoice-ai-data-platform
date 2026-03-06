@@ -1,0 +1,16 @@
+creation_timestamp: 1772831251999
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1772831251999
+model_id: m-ff8b5f3aab3c4108badc503fadb06335
+name: InvoiceAnomalyDetector
+run_id: a53e51335e224d809c81aa98a5339292
+run_link: null
+source: models:/m-ff8b5f3aab3c4108badc503fadb06335
+status: READY
+status_message: null
+storage_location: file:C:/Users/sathy/Downloads/invoice-ai-data-platform/mlruns/845118675494311989/models/m-ff8b5f3aab3c4108badc503fadb06335/artifacts
+user_id: null
+version: 1
+workspace: default

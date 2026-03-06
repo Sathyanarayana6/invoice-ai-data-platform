@@ -1,0 +1,1 @@
+["amount", "amount_zscore", "amount_log", "is_round_amount", "days_overdue", "invoice_month", "invoice_dow", "is_weekend", "invoice_quarter", "status_PAID", "status_PENDING", "status_OVERDUE", "status_DISPUTED", "status_CANCELLED", "vendor_total_invoices", "vendor_avg_amount", "vendor_overdue_rate", "vendor_dispute_rate", "vendor_risk_score", "amount_vs_vendor_avg"]

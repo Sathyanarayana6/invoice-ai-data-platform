@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/sathy/Downloads/invoice-ai-data-platform/mlruns/845118675494311989/models/m-0c9bdbc971e6436498d8532dffac3149/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.10.1
+model_id: m-0c9bdbc971e6436498d8532dffac3149
+model_size_bytes: 2288643
+model_uuid: m-0c9bdbc971e6436498d8532dffac3149
+prompts: null
+run_id: 180c17889d11444689295192f4857953
+utc_time_created: '2026-03-06 21:07:35.547334'

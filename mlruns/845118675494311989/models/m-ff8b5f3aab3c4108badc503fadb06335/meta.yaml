@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/sathy/Downloads/invoice-ai-data-platform/mlruns/845118675494311989/models/m-ff8b5f3aab3c4108badc503fadb06335/artifacts
+creation_timestamp: 1772831246935
+experiment_id: '845118675494311989'
+last_updated_timestamp: 1772831251974
+model_id: m-ff8b5f3aab3c4108badc503fadb06335
+model_type: null
+name: isolation_forest_model
+source_run_id: a53e51335e224d809c81aa98a5339292
+status: 2
+status_message: null

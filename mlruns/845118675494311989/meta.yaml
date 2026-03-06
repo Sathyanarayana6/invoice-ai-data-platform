@@ -1,0 +1,7 @@
+artifact_location: file:C:/Users/sathy/Downloads/invoice-ai-data-platform/mlruns/845118675494311989
+creation_time: 1772831246477
+experiment_id: '845118675494311989'
+last_update_time: 1772831246477
+lifecycle_stage: active
+name: invoice_anomaly_detection
+workspace: default
