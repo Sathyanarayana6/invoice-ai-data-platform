@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Which vendors have the highest overdue rates?",
+    "answer": "Query: Which vendors have the highest overdue rates?\n============================================================\nThe vendors with the highest overdue rates are:\n\n1. Koch-Decker - 17.24%\n2. Herrera-Dudley - 16.42%\n3. Garcia, Yang And Gardner - 15.71%\n4. Barnes, Cole And Ramirez - 13.21%\n============================================================\nSources used: 5 chunks"
+  },
+  {
+    "question": "What invoices are flagged as critical risk?",
+    "answer": "Query: What invoices are flagged as critical risk?\n============================================================\nThe following invoices are flagged as critical risk:\n\n1. Invoice INV-003859 - Vendor ID: VND-0045, Amount: $14,698.52, Days Overdue: 494\n2. Invoice INV-006454 - Vendor ID: VND-0048, Amount: $48,750.99, Days Overdue: 451\n3. Invoice INV-006943 - Vendor ID: VND-0004, Amount: $48,922.80, Days Overdue: 669\n4. Invoice INV-002191 - Vendor ID: VND-0044, Amount: $43,353.67, Days Overdue: 528\n5. Invoice INV-003991 - Vendor ID: VND-0019, Amount: $41,588.80, Days Overdue: 543\n============================================================\nSources used: 5 chunks"
+  },
+  {
+    "question": "What were the invoice trends in 2024?",
+    "answer": "Query: What were the invoice trends in 2024?\n============================================================\nIn 2024, the invoice trends showed the following:\n\n- **April**: 114 invoices processed, $2,404,101.89 total value, 14.91% overdue rate.\n- **August**: 130 invoices processed, $3,237,890.18 total value, 13.08% overdue rate.\n- **September**: 132 invoices processed, $3,260,673.41 total value, 13.64% overdue rate.\n- **October**: 142 invoices processed, $3,515,368.13 total value, 14.79% overdue rate.\n- **December**: 134 invoices processed, $3,407,268.95 total value, 13.43% overdue rate.\n\nOverall, the overdue rates remained within a normal range throughout the year, with fluctuations in the number of invoices processed and total invoice values.\n============================================================\nSources used: 5 chunks"
+  },
+  {
+    "question": "Show me vendors with dispute problems",
+    "answer": "Query: Show me vendors with dispute problems\n============================================================\nThe vendors with dispute problems are:\n\n1. Barnes, Cole And Ramirez\n   - Disputed invoices: 4\n   - Dispute rate: 7.55%\n\n2. Herrera-Dudley\n   - Disputed invoices: 3\n   - Dispute rate: 4.48%\n\n3. Koch-Decker\n   - Disputed invoices: 2\n   - Dispute rate: 3.45%\n\n4. Garcia, Yang And Gardner\n   - Disputed invoices: 3\n   - Dispute rate: 4.29%\n\n5. Brown, James And Ferrell\n   - Disputed invoices: 2\n   - Dispute rate: 3.39%\n============================================================\nSources used: 5 chunks"
+  },
+  {
+    "question": "Which invoices have zero dollar amounts?",
+    "answer": "Query: Which invoices have zero dollar amounts?\n============================================================\nThe invoices with zero dollar amounts are:\n1. INV-001530\n2. INV-001034\n3. INV-004294\n4. INV-000231\n5. INV-008592\n============================================================\nSources used: 5 chunks"
+  }
+]
