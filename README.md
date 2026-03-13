@@ -212,7 +212,3 @@ Airflow DAG orchestrates all steps daily with quality gates
 ## Author
 
 **Sathyanarayana Balla**
-AI & Data Engineer
-- AWS Certified Cloud Practitioner
-- CompTIA Network+
-- M.S. Cybersecurity Operations, Webster University
